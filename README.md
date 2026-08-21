@@ -33,3 +33,6 @@ Para solucionar el problema del texto pegado al borde, se agregó la propiedad *
 
 ## 5. Conclusión
 Separar el contenido (HTML) de la presentación (CSS) mediante archivos externos es fundamental. Permite mantener un código limpio y mantenible, evita la duplicación de estilos y facilita el trabajo colaborativo, aumenta la rapidez en la creación de proyectos y es bastante flexible.
+
+## NOTA
+Si quiere ver un modelo de tarjeta mejorada (la cual modifique a partir de la primera) en índex modifique el style.css a style2.css. 
